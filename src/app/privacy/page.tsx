@@ -3,7 +3,7 @@ import { Shield, Eye, Lock, Database } from "lucide-react";
 import { email, siteName } from "@/lib/constant";
 
 export const metadata = {
-	title: "Privacy Policy | SMM Garden",
+	title: "Privacy Policy | The Tools Hub",
 	description:
 		"Your privacy is our priority. Learn how we protect your data.",
 };
@@ -198,10 +198,10 @@ export default function PrivacyPage() {
 							</p>
 							<div className='text-gray-600'>
 								<p>
-									<strong>Email:</strong> {email}
+									<strong>Email:</strong> ttippammat@gmail.com
 								</p>
 								<p>
-									<strong>Last Updated:</strong> July 2025
+									<strong>Last Updated:</strong> January 2026
 								</p>
 							</div>
 						</CardContent>
