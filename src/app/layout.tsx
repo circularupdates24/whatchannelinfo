@@ -33,7 +33,7 @@ export const metadata: Metadata = {
 		description:
 			"Discover 50+ free online tools at The Tools Hub for SEO, calculators, generators, image tools, text tools, and developers—all in one place.",
 		creator: "@thetoolshub",
-		images: ["https://www.yourdomain.com/og-image.jpg"],
+		images: ["https://whatchannelinfo.com/og-image.png"],
 	},
 };
 
