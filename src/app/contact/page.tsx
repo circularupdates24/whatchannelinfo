@@ -4,7 +4,7 @@ import { Mail, Clock, MapPin } from "lucide-react";
 import { email, location } from "@/lib/constant";
 
 export const metadata = {
-	title: "Contact Us | SMM Garden",
+	title: "Contact Us | The Tools Hub",
 	description:
 		"Have a question, suggestion, or need help? We'll love to hear from you!",
 };
@@ -37,7 +37,7 @@ export default function ContactPage() {
 									<Mail className='w-5 h-5 text-blue-600 mt-1' />
 									<div>
 										<p className='font-medium'>Email</p>
-										<p className='text-gray-600'>{email}</p>
+										<p className='text-gray-600'>ttippammat@gmail.com</p>
 									</div>
 								</div>
 								<div className='flex items-start gap-3'>
