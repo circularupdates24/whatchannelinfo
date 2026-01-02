@@ -3,7 +3,7 @@ import { AlertTriangle, Info, Shield, FileText } from "lucide-react";
 import { email, siteName } from "@/lib/constant";
 
 export const metadata = {
-	title: "Disclaimer | SMM Garden",
+	title: "Disclaimer | The Tools Hub",
 	description:
 		"Important information about the use of our tools and services.",
 };
