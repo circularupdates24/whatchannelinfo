@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 	description:
 		"Discover 50+ free online tools at The Tools Hub for SEO, calculators, generators, image tools, text tools, and developers—all in one place.",
 	keywords:
-		"online tools, free tools, SEO tools, calculators, generators, text tools, image tools, developer tools, password generator, QR code generator, thetoolshub, thetoolshub.com, thetoolshub.in",
+		"online tools, free tools, SEO tools, calculators, generators, text tools, image tools, developer tools, password generator, QR code generator, thetoolshub",
 	authors: [{ name: "The Tools Hub Team" }],
 	creator: "The Tools Hub",
 	publisher: "The Tools Hub",
@@ -22,16 +22,16 @@ export const metadata: Metadata = {
 		type: "website",
 		locale: "en_US",
 		url: "https://whatchannelinfo.com",
-		title: "The Tools Hub - 60+ Free Online Tools",
+		title: "The Tools Hub: Free Online Tools for SEO, Developers, Images & Text",
 		description:
-			"Boost your productivity with our collection of powerful, free online tools.",
+			"Discover 50+ free online tools at The Tools Hub for SEO, calculators, generators, image tools, text tools, and developers—all in one place.",
 		siteName: "The Tools Hub",
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: "The Tools Hub - 60+ Free Online Tools",
+		title: "The Tools Hub: Free Online Tools for SEO, Developers, Images & Text",
 		description:
-			"Boost your productivity with our collection of powerful, free online tools.",
+			"Discover 50+ free online tools at The Tools Hub for SEO, calculators, generators, image tools, text tools, and developers—all in one place.",
 		creator: "@thetoolshub",
 		images: ["https://www.yourdomain.com/og-image.jpg"],
 	},
