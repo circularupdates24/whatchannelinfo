@@ -9,9 +9,9 @@ import { Toaster } from "sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "The Tools Hub - 60+ Free Online Tools",
+	title: "The Tools Hub: Free Online Tools for SEO, Developers, Images & Text",
 	description:
-		"Boost your productivity with our collection of 60+ powerful, free online tools. From SEO optimization to development utilities, password generators to calculators - all in one place.",
+		"Discover 50+ free online tools at The Tools Hub for SEO, calculators, generators, image tools, text tools, and developers—all in one place.",
 	keywords:
 		"online tools, free tools, SEO tools, calculators, generators, text tools, image tools, developer tools, password generator, QR code generator, thetoolshub, thetoolshub.com, thetoolshub.in",
 	authors: [{ name: "The Tools Hub Team" }],
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 	openGraph: {
 		type: "website",
 		locale: "en_US",
-		url: "https://www.yourdomain.com",
+		url: "https://whatchannelinfo.com",
 		title: "The Tools Hub - 60+ Free Online Tools",
 		description:
 			"Boost your productivity with our collection of powerful, free online tools.",
