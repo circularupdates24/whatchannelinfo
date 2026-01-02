@@ -243,14 +243,14 @@ export default function DisclaimerPage() {
 							</p>
 							<div className='text-gray-600'>
 								<p>
-									<strong>Last Updated:</strong> July 19, 2025
+									<strong>Last Updated:</strong> January 1, 2026
 								</p>
 								<p>
-									<strong>Effective Date:</strong> July 19,
-									2025
+									<strong>Effective Date:</strong> January 1,
+									2026
 								</p>
 								<p>
-									<strong>Contact:</strong> {email}
+									<strong>Contact:</strong> ttippammat@gmail.com
 								</p>
 							</div>
 						</CardContent>
