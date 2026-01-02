@@ -415,11 +415,10 @@ export default function HomePage() {
 			<section className='py-12 px-4 bg-white'>
 				<div className='container mx-auto text-center'>
 					<h1 className='text-3xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-blue-600 via-purple-600 to-blue-800 bg-clip-text text-transparent'>
-						Free Online Tools
+						Free Online Tools – Simple, Fast, and Easy to Use
 					</h1>
 					<p className='text-lg text-gray-600 mb-8 max-w-2xl mx-auto'>
-						65+ powerful tools to boost your productivity. All free,
-						no registration required.
+						Free online tools with 50+ powerful utilities to boost your productivity. All tools are free, fast, and require no registration.
 					</p>
 
 					{/* Search Bar */}
