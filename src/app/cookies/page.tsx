@@ -3,7 +3,7 @@ import { Cookie, Settings, Shield, Info } from "lucide-react";
 import { email, siteName } from "@/lib/constant";
 
 export const metadata = {
-	title: "Cookie Policy | SMM Garden",
+	title: "Cookie Policy | The Tools Hub",
 	description: "Learn about how we use cookies and similar technologies.",
 };
 
@@ -233,14 +233,14 @@ export default function CookiesPage() {
 							</p>
 							<div className='text-gray-600'>
 								<p>
-									<strong>Email:</strong> {email}
+									<strong>Email:</strong> ttippammat@gmail.com
 								</p>
 								<p>
 									<strong>Subject:</strong> Cookie Policy
 									Inquiry
 								</p>
 								<p>
-									<strong>Last Updated:</strong> July 2025
+									<strong>Last Updated:</strong> January 2026
 								</p>
 							</div>
 						</CardContent>
